@@ -5,7 +5,8 @@ ClmID,PriBenefGrade, BenefAge, Age_Band, Sex, Lenght of Stay, ClmAmount, ClmAppr
 
 Target Attribute: Insurer_status(Approved/Denied)
  
-No. of patterns
+No. of patterns:
+
 Approved (0): 243
 Denied (3): 41
                          
