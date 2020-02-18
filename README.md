@@ -7,8 +7,8 @@ Target Attribute: Insurer_status(Approved/Denied)
  
 No. of patterns:
 
-Approved (0): 243
-Denied (3): 41
+Approved (calss 0): 243
+Denied (calss 3): 41
                          
 
 The notebook is useful to get the idea about how to perform Exploratory Data Analysis.        
