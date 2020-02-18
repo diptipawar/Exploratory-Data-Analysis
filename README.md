@@ -11,7 +11,8 @@ Approved (calss 0): 243
 Denied (calss 3): 41
                          
 
-The notebook is useful to get the idea about how to perform Exploratory Data Analysis.        
+The notebook is useful to get the idea about how to perform Exploratory Data Analysis.    
+The csv file is not provided.. but you can refer notebook and easily apply EDA on your own csv file.
                         
               
                  
